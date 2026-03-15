@@ -1,4 +1,4 @@
-package com.qrplatform.auth_service;
+package com.qrplatform.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
